@@ -73,11 +73,5 @@
         
 
     
-    ],
-    "editor.minimap.enabled": false,
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": false,
-    "editor.formatOnType": false,
-    "vetur.validation.templateProps": true,
-    "editor.codeActionsOnSave": null
+    ]
 }
