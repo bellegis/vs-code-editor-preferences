@@ -1,0 +1,83 @@
+{
+    "editor.accessibilityPageSize": 12,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [{
+            "scope": "comment",
+            "settings": {
+                "foreground": "#888888"
+            }
+        },
+        {
+            "scope": "storage.type.function.js",
+            "settings": {
+                "foreground": "#ffe5e9"
+            }
+        },
+        {
+            "scope": "entity.name.function.js",
+            "settings": {
+                "foreground": "#ffce42"
+            }
+        },
+        {
+            "scope": "string.quoted.double.js",
+            "settings": {
+                "foreground": "#f88379"
+            }
+        },
+        {
+            "scope": "storage.type.js",
+            "settings": {
+                "foreground": "#ffe5e9"
+            }
+        },
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#4682B4"
+            }
+        },
+        {
+            "scope": "support.variable.js",
+            "settings": {
+                "foreground":"#ffe5e9"
+            }
+        },
+        {
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#ffe5e9"
+            }
+        },
+        {
+            "scope": "variable.other.readwrite.js",
+            "settings": {
+                "foreground": "#CC99CC"
+            }
+        },
+        {
+            "scope": "constant.numeric.decimal.js",
+            "settings": {
+                "foreground": "#218868"
+            }
+        },
+    ]
+    },
+    "editor.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "editor.foreground": "#ffe5e9"
+    },
+    "workbench.editorAssociations": [
+        
+        
+        
+
+    
+    ],
+    "editor.minimap.enabled": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "vetur.validation.templateProps": true,
+    "editor.codeActionsOnSave": null
+}
